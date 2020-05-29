@@ -1,0 +1,6 @@
+module Pods_CloneGatUpSummaryPage {
+  umbrella header "Pods-CloneGatUpSummaryPage-umbrella.h"
+
+  export *
+  module * { export * }
+}
